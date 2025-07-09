@@ -4,7 +4,7 @@ this is the portfolio code that I learned during 450C
 
 # Analysing patient data
 
-In this analysus, we looked at inflammation data for multiple patients
+In this analysis, we looked at inflammation data for multiple patients
 
 ```python
 import numpy as np
